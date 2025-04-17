@@ -41,8 +41,8 @@ A simple yet powerful **Euro coin counting app** built with **YOLOv8** and **Str
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/euro-coin-counter.git
-cd euro-coin-counter
+git clone https://github.com/akhilpsin/Euro-Coin-Counting-App.git
+cd Euro-Coin-Counting-App
 ```
 
 2. Install dependencies:
@@ -62,7 +62,7 @@ euro_coin_detector/weights/best.pt
 ## 🖥️ Running the App
 
 ```bash
-streamlit run euro_coin_detector_app.py
+streamlit run app.py
 ```
 
 Visit `http://localhost:8501` in your browser.
@@ -83,7 +83,7 @@ Visit `http://localhost:8501` in your browser.
 ```
 euro-coin-counter/
 │
-├── euro_coin_detector_app.py         # Streamlit app
+├── app.py                            # Streamlit app
 ├── requirements.txt                  # Dependency file
 ├── euro_coin_detector/
 │   └── weights/
@@ -91,11 +91,6 @@ euro-coin-counter/
 └── README.md
 ```
 
----
-
-## 🧪 Example Output
-
-![example](example_output.png)
 
 ---
 
