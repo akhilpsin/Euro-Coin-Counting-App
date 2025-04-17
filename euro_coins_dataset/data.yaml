@@ -1,0 +1,13 @@
+path: C:/Users/akhil/Desktop/Akhil ps/euro_coin_detector/euro_coins_dataset
+train: C:/Users/akhil/Desktop/Akhil ps/euro_coin_detector/euro_coins_dataset/images/train
+val: C:/Users/akhil/Desktop/Akhil ps/euro_coin_detector/euro_coins_dataset/images/val
+
+names:
+  0: 1 cent
+  1: 2 cent
+  2: 5 cent
+  3: 10 cent
+  4: 20 cent
+  5: 50 cent
+  6: 1 euro
+  7: 2 euro
